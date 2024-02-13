@@ -1,5 +1,10 @@
 package inheritanceDemoV3;
 //version 3
+
+/**
+ * This is the Animal class. It is the superclass for the Mammal and Reptile classes.
+ * It has three fields: beingDangerous, numberOfLegs, and diet.
+ */
 public class Animal {
 
     protected boolean beingDangerous;

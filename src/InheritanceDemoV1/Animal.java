@@ -1,5 +1,9 @@
 package InheritanceDemoV1;
 
+/**
+ * superclass with three data/attributes
+ * constructor taking three attributes
+ */
 public class Animal {
 
     protected boolean beingDangerous;

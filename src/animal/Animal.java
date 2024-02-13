@@ -1,5 +1,11 @@
 package animal;
 
+/**
+ * Animal class is the superclass of Reptile and Mammal classes.
+ * this is part of the inheritanceDemoV2
+ *
+ *
+ */
 public class Animal {
 
     protected boolean beingDangerous;

@@ -2,11 +2,13 @@ package InheritanceDemoV1;
 
 public class Mammal extends Animal {
 
-    private boolean hasFur;
-    private boolean giveBirth;
+    private boolean hasFur; //false
+    private boolean giveBirth; //false
+
 
     public Mammal(){
-        super(false,2, "Omnivore");
+
+       super(false,2, "Omnivore");
 
     }
 

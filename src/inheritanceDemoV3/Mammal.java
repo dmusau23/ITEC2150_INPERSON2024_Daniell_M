@@ -1,11 +1,17 @@
 package inheritanceDemoV3;
 
+/**
+ * This is the Mammal class. It is the subclass of the Animal class.
+ * It has two fields: hasFur and giveBirth.
+ *
+ */
 public class Mammal extends Animal {
 
     private boolean hasFur;
     private boolean giveBirth;
 
     public Mammal(){
+       // super();
         super(false,2, "Omnivore");
     }
 
