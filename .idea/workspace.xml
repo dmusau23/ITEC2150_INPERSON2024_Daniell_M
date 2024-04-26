@@ -5,29 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f86156cd-bbf1-4347-bbd5-933014512dcc" name="Changes" comment="all committed">
-      <change afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataOutput.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poem.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/something" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileIODemo/Beginning1/FileReaderExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileIODemo/Beginning1/FileReaderExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileIODemo/Beginning1/ReverseRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileIODemo/Beginning1/ReverseRetrieve.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileIODemo/Beginning2/ReadFileAscendingOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileIODemo/Beginning2/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileIODemo/WeatherAnalysis/weather.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileIODemo/WritingFile/BufferedWriterDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileIODemo/WritingFile/BufferedWriterDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileIODemo/WritingFile/PrintWriterDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileIODemo/WritingFile/WritingFileDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileIODemo/WritingFile/dataOutput.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hamlet.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileIODemo/Computing/Data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileIODemo/Computing/DataComputation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileIODemo/WeatherAnalysis/report.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileIODemo/WritingFile/WithoutAutoClosure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileIODemo/WritingFile/WithoutAutoClosurePrintWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileIODemo/WritingFile/myFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalReview/AnimalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalReview/FileRecursiveDuplicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalReview/Intrument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalReview/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/BeforeGenerics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Container/Container.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Container/ContainerTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Container/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/GenericsPairs/Calculator/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/GenericsPairs/Calculator/CalculatorBeforeGenerics/CalculatorBeforeGenerics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/GenericsPairs/Calculator/CalculatorTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/GenericsPairs/GenericPairTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/GenericsPairs/GenericsPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/GenericsPairs/Maximum/Max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/GenericsPairs/Swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Stack/GenericStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Stack/GenericStackTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Stack/GenericStackWildCard0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Stack/SplitStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MultiPoints/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MultiPoints/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PointDemo/NamedPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PointDemo/NamedPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PointDemo/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PointDemo/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PointDemo/PointTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PointDemo/PointTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FileIODemo/WeatherAnalysis/Weather.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileIODemo/WeatherAnalysis/Weather.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +53,9 @@
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -66,15 +74,23 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.AnimalDemo.executor": "Run",
+    "Application.BeforeGenerics.executor": "Run",
     "Application.BufferedWriterDemo2.executor": "Run",
     "Application.FileReaderExample.executor": "Run",
     "Application.FileReaderExample2.executor": "Run",
+    "Application.FileRecursiveDuplicator.executor": "Run",
+    "Application.GenericStackTester.executor": "Run",
     "Application.PointTester.executor": "Run",
     "Application.PointTesterDistance.executor": "Run",
     "Application.PrintWriterDemo.executor": "Run",
     "Application.ReadFileAscendingOrder.executor": "Run",
     "Application.ReverseRecursion.executor": "Run",
     "Application.ReverseRetrieve.executor": "Run",
+    "Application.SplitStack.executor": "Run",
+    "Application.Weather.executor": "Run",
+    "Application.WithoutAutoClosure.executor": "Run",
+    "Application.WithoutAutoClosurePrintWriter.executor": "Run",
     "Application.WritingFileDemo1.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -107,13 +123,13 @@
       <recent name="animal" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrintWriterDemo">
-    <configuration name="BufferedWriterDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FileIODemo.WritingFile.BufferedWriterDemo2" />
+  <component name="RunManager" selected="Application.AnimalDemo">
+    <configuration name="AnimalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalReview.AnimalDemo" />
       <module name="ITEC2150_INPERSON2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FileIODemo.WritingFile.*" />
+          <option name="PATTERN" value="FinalReview.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintWriterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FileIODemo.WritingFile.PrintWriterDemo" />
+    <configuration name="BeforeGenerics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generics.BeforeGenerics" />
       <module name="ITEC2150_INPERSON2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FileIODemo.WritingFile.*" />
+          <option name="PATTERN" value="Generics.Container.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadFileAscendingOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FileIODemo.Beginning2.ReadFileAscendingOrder" />
+    <configuration name="FileRecursiveDuplicator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalReview.FileRecursiveDuplicator" />
       <module name="ITEC2150_INPERSON2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FileIODemo.Beginning2.*" />
+          <option name="PATTERN" value="FinalReview.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FileIODemo.Beginning1.ReverseRecursion" />
+    <configuration name="GenericStackTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generics.Stack.GenericStackTester" />
       <module name="ITEC2150_INPERSON2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FileIODemo.Beginning1.*" />
+          <option name="PATTERN" value="Generics.Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,12 +176,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WritingFileDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FileIODemo.WritingFile.WritingFileDemo1" />
+    <configuration name="SplitStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generics.Stack.SplitStack" />
       <module name="ITEC2150_INPERSON2024" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FileIODemo.WritingFile.*" />
+          <option name="PATTERN" value="Generics.Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrintWriterDemo" />
-        <item itemvalue="Application.BufferedWriterDemo2" />
-        <item itemvalue="Application.WritingFileDemo1" />
-        <item itemvalue="Application.ReadFileAscendingOrder" />
-        <item itemvalue="Application.ReverseRecursion" />
+        <item itemvalue="Application.AnimalDemo" />
+        <item itemvalue="Application.FileRecursiveDuplicator" />
+        <item itemvalue="Application.SplitStack" />
+        <item itemvalue="Application.GenericStackTester" />
+        <item itemvalue="Application.BeforeGenerics" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +231,8 @@
       <workItem from="1707837632839" duration="1701000" />
       <workItem from="1707842393589" duration="631000" />
       <workItem from="1711730406516" duration="1215000" />
-      <workItem from="1712156937479" duration="9662000" />
+      <workItem from="1712156937479" duration="21003000" />
+      <workItem from="1712950665369" duration="7798000" />
     </task>
     <task id="LOCAL-00001" summary="all committed">
       <option name="closed" value="true" />
